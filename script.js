@@ -126,3 +126,19 @@ console.log(even([1,2,3,4,5,6,7,8,9,10]));
 // HOF higher order function / callback / reduce / filter
 // function name(() => {}) {}
 //  Median of 2 sorted Arrays
+
+// Rotate and array by K times
+
+// var result  = [];
+// var round = (arr)=>{
+//     console.log(arr)
+//     for (let i = 0; i < arr.length-1; i++) {
+//         arr.push(arr[0])
+//         arr.shift()
+//         console.log(arr)
+        
+//     }
+    
+// }
+
+// round([1,2,3,4,5])
