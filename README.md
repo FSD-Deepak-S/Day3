@@ -1,4 +1,4 @@
-# Day 3 Javascript Roadmap hera we are going to see the topics as listed below
+# Day 3 Javascript Roadmap here we are going to see the topics as listed below
     # Functions
     1.Normal Function
     2.Annonyomus Function
